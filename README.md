@@ -1,3 +1,3 @@
 # ml_beginner_level
 
-This is repo for Machine Learning part in Datascience course on Skillbox.
+This repository was made for my homeworks for "Machine Learning - beginner level" module in Datascience course on Skillbox.
